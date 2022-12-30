@@ -1,0 +1,38 @@
+    .head{
+        text-align: center;
+        background-color: black;
+        color: white;
+        text-shadow: 110px;
+    }
+
+    body{
+        background-color: white;
+    }
+    table {
+        border: 1px solid black;
+        margin-left: 400px;
+        margin-right: 400px;
+        box-shadow: rgba(0, 0, 0, 43) 0px 40px 40px, rgba(0, 0, 0, 78) 0px 10px 10px;
+    }
+
+    input[type="button"] {
+        width: 100%;
+        padding: 20px 40px;
+        background-color: silver;
+        color: black;
+        font-size: 24px;
+        font-weight: bold;
+        border-bottom: 1.5em;
+        border-radius: 50px;
+        box-shadow: rgba(0, 0, 0, 43) 0px 10px 20px, rgba(0, 0, 0, 78) 0px 6px 6px;
+    }
+
+    input[type="text"] {
+        padding: 20px 30px;
+        font-size: 24px;
+        font-weight: bold;
+        border: none;
+        border-radius: 5px;
+        border: 2px solid dotted;
+        box-shadow: rgba(0, 0, 0, 43) 0px 10px 20px, rgba(0, 0, 0, 78) 0px 6px 6px;
+    }
